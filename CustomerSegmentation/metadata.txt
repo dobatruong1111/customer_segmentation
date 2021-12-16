@@ -1,0 +1,40 @@
+- PHÂN TÍCH TÍNH CÁCH KHÁCH HÀNG -
+
+ID : mã định danh duy nhất
+Year_Birth : năm sinh
+Education : trình độ học vấn
+    PhD - Tiến sĩ
+    Graduation - Tốt nghiệp đại học
+    master - Giáo sư
+    2n Cycle - Tốt nghiệp cấp 2
+    Basic - Tốt nghiệp căn bản (Tốt nghiệp cấp 3)
+Marital_Status : tình trạng hôn nhân
+Income : thu nhập hộ gia đình hàng năm của khách hàng
+Kidhome : số trẻ em trong hộ gia đình
+Teenhome : số thanh thiếu niên trong hộ gia đình
+Dt_Customer : ngày đăng ký của khách hàng với công ty
+Recency : số ngày kể từ lần mua cuối cùng
+Complain : = 1 nếu khách hàng phàn nàn trong vòng 1 năm qua, = 0 nếu không
+
+CÁC SẢN PHẨM
+MntWines : số tiền chi cho rượu vang trong 2 năm qua
+MntFruits : Số tiền chi cho trái cây trong 2 năm qua
+MntMeatProducts : Số tiền chi cho thịt trong 2 năm qua
+MntFishProducts : Số tiền chi cho cá trong 2 năm qua
+MntSweetProducts : Số tiền chi tiêu cho đồ ngọt trong 2 năm qua
+MntGoldProds : Số tiền chi cho vàng trong 2 năm qua
+
+CHIẾN DỊCH KHUYẾN MÃI
+NumDealsPurchases: Số lần mua hàng được giảm giá
+AcceptedCmp1: 1 nếu khách hàng chấp nhận ưu đãi trong chiến dịch thứ 1, 0 nếu không
+AcceptedCmp2: 1 nếu khách hàng chấp nhận ưu đãi trong chiến dịch thứ 2, 0 nếu không
+AcceptedCmp3: 1 nếu khách hàng chấp nhận ưu đãi trong chiến dịch thứ 3, 0 nếu không
+AcceptedCmp4: 1 nếu khách hàng chấp nhận ưu đãi trong chiến dịch thứ 4, 0 nếu không
+AcceptedCmp5: 1 nếu khách hàng chấp nhận ưu đãi trong chiến dịch thứ 5, 0 nếu không
+Response: 1 nếu khách hàng chấp nhận đề nghị trong chiến dịch cuối cùng, 0 nếu không
+
+ĐỊA ĐIỂM MUA HÀNG
+NumWebPurchases: Số lượng mua hàng được thực hiện thông qua trang web của công ty
+NumCatalogPurchases: Số lần mua hàng được thực hiện bằng danh mục
+NumStorePurchases: Số lượng mua hàng được thực hiện trực tiếp tại các cửa hàng
+NumWebVisitsMonth: Số lượt truy cập vào trang web của công ty trong tháng trước
