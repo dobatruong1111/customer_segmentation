@@ -3,11 +3,11 @@
 ID : mã định danh duy nhất
 Year_Birth : năm sinh
 Education : trình độ học vấn
-    PhD - Tiến sĩ
-    Graduation - Tốt nghiệp đại học
-    master - Giáo sư
-    2n Cycle - Tốt nghiệp cấp 2
-    Basic - Tốt nghiệp căn bản (Tốt nghiệp cấp 3)
+    PhD
+    Graduation
+    Master
+    2n Cycle
+    Basic
 Marital_Status : tình trạng hôn nhân
 Income : thu nhập hộ gia đình hàng năm của khách hàng
 Kidhome : số trẻ em trong hộ gia đình
